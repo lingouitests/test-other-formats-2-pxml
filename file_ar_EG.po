@@ -18,5 +18,7 @@ msgstr ""
 # SOURCE_FILE C:/Path/to/my/source/files/Matrix.js
 msgid "ascending"
 msgstr "ascending"
+msgid "Viewing rows {0} to {1} of {2}"
+msgstr "Viewing rows {0} to {1} of {2}"
 msgid "descending"
 msgstr "descending"
