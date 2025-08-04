@@ -72,7 +72,7 @@ END
 // SOURCE_FILE C:/Path/to/my/source/file/FilterPatternOrderTests.js
 STRINGTABLE
 BEGIN
-    FILT_TRUE_4    "rc true"
+    FILT_TRUE_4    "rc true&reg &lt;"
     FILT_DDMMYYY_6    "rc dd/MM/yyyy"
 END
 
@@ -80,6 +80,6 @@ END
 STRINGTABLE
 BEGIN
     STRI_ANDTHIS_1    "rc &and this "
-    STRI_ISHOULD_2    "rc I should be detected because not in ignore next line comment"
-    STRI_ISHOULD_3    "rc I hould be detected because outside ignore start/end block"
+    STRI_ISHOULD_2    "rc I should be detected because not in &nbsp;ignore next line comment 100&nbsp;kilo"
+    STRI_ISHOULD_3    "rc I hould be &amp;copy;detected because outside ignore start/end block"
 END
