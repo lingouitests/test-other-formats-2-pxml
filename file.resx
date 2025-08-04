@@ -9,25 +9,25 @@
     
     <!-- Simple string resource -->
     <data name="WelcomeMessage" xml:space="preserve">
-        <value>Welcome to our application!</value>
+        <value>resx Welcome to our application!</value>
     </data>
 
     <!-- Resource with comment -->
     <data name="UserNamePrompt" xml:space="preserve">
-        <value>Please enter your username</value>
+        <value>resx Please enter  &apos;your &quot; username</value>
         <comment>Username prompt shown during login</comment>
     </data>
 
     <!-- Resource with placeholders -->
     <data name="GreetingMessage" xml:space="preserve">
-        <value>Hello, {0}! Your account was created on {1}</value>
+        <value>resx Hello, {0}! Your account was created on {1}</value>
         <comment>Greeting message with placeholders for name and date</comment>
     </data>
 
     <!-- Resource with multiline text -->
     <data name="TermsOfService" xml:space="preserve">
-        <value>This is a multi-line
-        resource spanning
+        <value>resx This is a multi-line
+        resource spanning&nbsp;
         multiple lines.</value>
     </data>
 </root>
