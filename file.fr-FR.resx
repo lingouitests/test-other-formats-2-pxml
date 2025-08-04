@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <!-- Simple string resource -->
+    <data name="WelcomeMessage" xml:space="preserve">
+        <value>resx  Welcome to our application!&amp;amp;</value>
+    </data>
+    <!-- Resource with comment -->
+    <data name="UserNamePrompt" xml:space="preserve">
+        <value>resx Please enter  &amp;apos;your &amp;quot; username&amp;quot;</value>
+        <comment>Username prompt shown during login</comment>
+    </data>
+    <!-- Resource with placeholders -->
+    <data name="GreetingMessage" xml:space="preserve">
+        <value>resx Hello, {0}! Your account was created on {1}&amp;nbsp;</value>
+        <comment>Greeting message with placeholders for name and date</comment>
+    </data>
+</root>
