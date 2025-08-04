@@ -9,7 +9,7 @@
     
     <!-- Simple string resource -->
     <data name="WelcomeMessage" xml:space="preserve">
-        <value>resx Welcome to our application!</value>
+        <value>resx Welcome to our application!&nbsp;</value>
     </data>
 
     <!-- Resource with comment -->
@@ -27,7 +27,7 @@
     <!-- Resource with multiline text -->
     <data name="TermsOfService" xml:space="preserve">
         <value>resx This is a multi-line
-        resource spanning&nbsp;
+        resource spanning
         multiple lines.</value>
     </data>
 </root>
