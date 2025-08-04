@@ -9,7 +9,7 @@
     
     <!-- Simple string resource -->
     <data name="WelcomeMessage" xml:space="preserve">
-        <value>resx &#160;Welcome to our application!&amp;nbsp;</value>
+        <value>resx &#160;Welcome to our application!&amp</value>
     </data>
 
     <!-- Resource with comment -->
