@@ -21,7 +21,7 @@
     <!-- Resource with placeholders -->
     <data name="GreetingMessage" xml:space="preserve">
         <value>resx Hello, {0}! Your account was created on {1}</value>
-        <comment>Greeting message with placeholders for name and date</comment>
+        <comment>Greeting message with placeholders for name and &amp;nbspdate</comment>
     </data>
 
     <!-- Resource with multiline text -->
