@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>2.0</value>
+    </resheader>
+    
+    <!-- Simple string resource -->
+    <data name="WelcomeMessage" xml:space="preserve">
+        <value>Welcome to our application!</value>
+    </data>
+
+    <!-- Resource with comment -->
+    <data name="UserNamePrompt" xml:space="preserve">
+        <value>Please enter your username</value>
+        <comment>Username prompt shown during login</comment>
+    </data>
+
+    <!-- Resource with placeholders -->
+    <data name="GreetingMessage" xml:space="preserve">
+        <value>Hello, {0}! Your account was created on {1}</value>
+        <comment>Greeting message with placeholders for name and date</comment>
+    </data>
+
+    <!-- Resource with multiline text -->
+    <data name="TermsOfService" xml:space="preserve">
+        <value>This is a multi-line
+        resource spanning
+        multiple lines.</value>
+    </data>
+</root>
