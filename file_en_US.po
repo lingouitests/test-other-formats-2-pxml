@@ -22,12 +22,12 @@ msgstr " po ascending"
 msgid " po descending"
 msgstr "po descending"
 
-msgid "po Viewing rows {0} to {1} of {2}"
-msgstr "po Viewing rows {0} to {1} of {2}"
+msgid "po Viewing &reg&lt;rows {0} to {1} of {2} &apos;"
+msgstr " &quot;po Viewing rows {0} to {1} of {2}"
 
 # SOURCE_FILE C:/Path/to/my/source/files/cache.js
 
-msgid "po You have made unsaved changes to the following cache document(s): <b>"
+msgid "po You have made unsaved changes to the following cache document(s): <b>  &nbsp;"
 msgstr "po You have made unsaved changes to the following cache document(s): <b>"
 
 msgid "po </b>. Procede with delete?"
