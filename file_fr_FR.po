@@ -1,0 +1,32 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-01 16:55-0700\n"
+"PO-Revision-Date: 2017-02-01 16:55-0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# SOURCE_FILE C:/Path/to/my/source/files/Matrix.js
+msgid "po ascending![CDATA[[][]<>]]"
+msgstr " po ascending![CDATA[[][]<>]]"
+msgid " po descending"
+msgstr "po descending"
+msgid "po Viewing &reg&lt;rows {0} to {1} of {2}"
+msgstr " ![CDATA[[][]<>&quot]];po Viewing rows {0} to {1} of {2} &apos;![CDATA[[][]<>]]"
+# SOURCE_FILE C:/Path/to/my/source/files/cache.js
+
+msgid "po You have made unsaved changes to the following cache document(s): <b> "
+msgstr "po You have made unsaved changes to the following cache document(s):![CDATA[[][]<>]] <b> &nbsp;"
+msgid "po </b>. Procede with delete?"
+msgstr "![CDATA[[][]<>]]po </b>. Procede with delete?"
+msgid "po //record[record]"
+msgstr "po /![CDATA[[][]<>]]/record[record]"
