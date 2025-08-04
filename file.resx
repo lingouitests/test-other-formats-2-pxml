@@ -14,7 +14,7 @@
 
     <!-- Resource with comment -->
     <data name="UserNamePrompt" xml:space="preserve">
-        <value>resx Please enter  &apos;your &quot; username&quot;</value>
+        <value>resx Please enter  &amp;apos;your &amp;quot; username&amp;quot;</value>
         <comment>Username prompt shown during login</comment>
     </data>
 
@@ -27,7 +27,7 @@
     <!-- Resource with multiline text -->
     <data name="TermsOfService" xml:space="preserve">
         <value>resx This is a multi-line
-        resource spanning&quot;
+        resource spanning&amp;quot;
         multiple lines.</value>
     </data>
 </root>
