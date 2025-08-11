@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <!-- Simple string resource -->
+    <data name="WelcomeMessage" xml:space="preserve">
+        <value>resx &#160;Welcome to our application!&amp;amp;</value>
+    </data>
+    <!-- Resource with comment -->
+    <data name="UserNamePrompt" xml:space="preserve">
+        <value>![CDATA[]]resx Please enter  &amp;apos;your ![CDATA[]] username&amp;quot;</value>
+        <comment>Username prompt shown during login</comment>
+    </data>
+</root>
