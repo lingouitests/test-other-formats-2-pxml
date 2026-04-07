@@ -1,4 +1,5 @@
 {
   "test1": "json 100&nbsp;kilo",
-  "1": "222"
+  "1": "222",
+  "empty_value_after_translation": ""
 }
