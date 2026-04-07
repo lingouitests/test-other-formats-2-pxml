@@ -5,5 +5,5 @@
   "test2":"Mr.&nbsp;![CDATA[cdata]]Smith json",
   "test3":"json12&nbsp;PM![CDATA[cdata]]",
   "1":"one",
-  "empty_value_after_translation":""
+  "empty_value_after_translation":"delete_me"
 }
