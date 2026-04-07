@@ -3,5 +3,6 @@
   "json-file":"json is ![CDATA[cdata]] wide spread format &quot; &apos;",
   "test1":"json 100&nbsp;kilo",
   "test2":"Mr.&nbsp;![CDATA[cdata]]Smith json",
-  "test3":"json12&nbsp;PM![CDATA[cdata]]"
+  "test3":"json12&nbsp;PM![CDATA[cdata]]",
+  "1":"one"
 }
